@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💡 Actualmente (13/09/2022) estudiante ingeniería en sistemas en Universidad ORT Uruguay. A la vez cofundador de Viatik (htpps://viatik.com.uy) la primera plataforma de carpooling en Uruguay. 
+
+📚 Conocimientos en Java, JS, React, Native JS, Python y siempre abierto a aprender más.
+
+ℹ️ email de contacto: gonzalo.aszyn@hotmail.com
+
