@@ -1,23 +1,10 @@
 ### Hi there 👋
 
-<!--
-**GonzaloAszyn/GonzaloAszyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏼‍♂️ Mi nombre es Gonzalo Aszyn, tengo 19 años, soy argentino actualmente viviendo en Uruguay, Montevideo. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-💡 Actualmente (13/09/2022) estudiante ingeniería en sistemas en Universidad ORT Uruguay. A la vez cofundador de Viatik (htpps://viatik.com.uy) la primera plataforma de carpooling en Uruguay. 
+💡 (13/09/2022) Estudiante de Ingeniería en Sistemas en Universidad ORT Uruguay. A la vez cofundador de Viatik (htpps://viatik.com.uy) la primera plataforma de carpooling en Uruguay. 
 
 📚 Conocimientos en Java, JS, React, Native JS, Python y siempre abierto a aprender más.
 
-ℹ️ email de contacto: gonzalo.aszyn@hotmail.com
+ℹ️ Email de contacto: gonzalo.aszyn@hotmail.com
 
