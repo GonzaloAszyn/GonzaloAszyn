@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙋🏼‍♂️ Mi nombre es Gonzalo Aszyn, tengo 19 años, soy argentino actualmente viviendo en Uruguay, Montevideo. 
+🙋🏼‍♂️ Mi nombre es Gonzalo Aszyn, tengo 22 años, soy argentino actualmente viviendo en Uruguay, Montevideo. 
 
 💡 (13/09/2022) Estudiante de Ingeniería en Sistemas en Universidad ORT Uruguay. A la vez cofundador de Viatik (htpps://viatik.com.uy) la primera plataforma de carpooling en Uruguay. 
 
